@@ -1,0 +1,76 @@
+{
+    "players": {
+        "teamA": [
+            {
+                "playernanme": "",
+                "position": "",
+                "image": "",
+                "captain": true
+            }
+        ],
+        "TeamB": [
+            {
+                "playernanme": "",
+                "position": "",
+                "image": "",
+                "captain": true
+            }
+        ]
+    },
+    "matches": {
+        "next_matches": [
+            {
+                "home_team": "",
+                "home_logo": "",
+                "away_team": "",
+                "away_logo": "",
+                "date": "",
+                "location": ""
+            }
+        ],
+        "recent_matches": [
+            {
+                "home_team": "",
+                "home_logo": "",
+                "away_team": "",
+                "away_logo": "",
+                "date": "",
+                "location": "",
+                "home_score": "",
+                "away_score": ""
+            }
+        ]
+    },
+    "activities": [
+        {
+            "title": "",
+            "date_posted": "",
+            "posted by": "",
+            "description": "",
+            "tag_name": "SOCCER",
+            "image": ""
+        }
+    ],
+    "news": [
+        {
+            "title": "",
+            "date_posted": "",
+            "posted by": "",
+            "description": "",
+            "tag_name": "SOCCER",
+            "image": ""
+        }
+    ],
+    "headlights": [
+        {
+            "title": ""
+        }
+    ],
+    "sponsors":[
+        {
+            "name": "",
+            "date": "",
+            "message": ""
+        }
+    ]
+}
